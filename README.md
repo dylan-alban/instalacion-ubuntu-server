@@ -11,4 +11,5 @@ una vez podamos iniciar la iso de ubuntu en la virtual box nos saldra una pantal
 
 - Despues elegiremos el idioma tanto del sistema operativo como del teclado, y nos saldran una configuracion de red con este nombre enp0s3 o enp0s8 y con un DHCP esto lo dejaremos en blanco y continuaremos dandole a "done";
 - Tambien nos saldra una configuracion para el Proxy y otra para el "mirror", las dejaremos en blanco para configurarlas mas adelante.
-- 
+- Tendremos que elegir el tamaño de almacenimiento eligiremos la opcion de usar el dico entero que normalmente sera la que ya venga seleccionada
+<img width="954" height="416" alt="Captura de 2026-09-17 18-01-26" src="https://github.com/user-attachments/assets/793090f0-5ff0-4d32-a19a-c654db51c99f" />

@@ -16,3 +16,6 @@ Tambien nos saldra una configuracion para el Proxy y otra para el "mirror", las 
 ### Almacenamiento
 Tendremos que elegir el tamaño de almacenimiento eligiremos la opcion de usar el dico entero que normalmente sera la que ya venga seleccionada
 <img width="954" height="416" alt="Captura de 2026-09-17 18-01-26" src="https://github.com/user-attachments/assets/793090f0-5ff0-4d32-a19a-c654db51c99f" />
+### Configuracion del perfil
+Tendremos que elegir los nombres y contraseña
+<img width="955" height="436" alt="Captura de 2026-09-17 18-15-41" src="https://github.com/user-attachments/assets/a8053242-59b9-4434-80c0-7bde15a6dc5e" />

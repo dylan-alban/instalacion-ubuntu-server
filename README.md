@@ -19,3 +19,7 @@ Tendremos que elegir el tamaño de almacenimiento eligiremos la opcion de usar e
 ### Configuracion del perfil
 Tendremos que elegir los nombres y contraseña
 <img width="955" height="436" alt="Captura de 2026-09-17 18-15-41" src="https://github.com/user-attachments/assets/a8053242-59b9-4434-80c0-7bde15a6dc5e" />
+### Servidor ssh y snap
+En el servidor ssh es muy importante que eligamos la opcion de "install openssh server"
+### Fin
+Cuando termine de instalarse el sistema operativo le daremos a reiniciar ahora y se te da error abria que cerrar la maquina apagandola y quitar el  dvd en virtual box y volveremos a iniciar la maquina y ya estara listo

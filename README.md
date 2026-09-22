@@ -30,3 +30,5 @@ Una vez el Sistema bien instalado tendriamos que configurar el SSH fijandola con
 ### Encontrar el fichero
 Haora mismo al ejecutar "ls /etc/netplan" solo saldra un unico fichero llamado ".ymal" 
 <img width="277" height="21" alt="Captura de 2026-09-22 16-35-19" src="https://github.com/user-attachments/assets/1653df1a-b2b9-4fd2-8cdb-75bc2597369a" />
+### Editar el fichero
+Para poder editar este fichero usaremos este comando 

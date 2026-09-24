@@ -31,4 +31,6 @@ Una vez el Sistema bien instalado tendriamos que configurar el SSH fijandola con
 Haora mismo al ejecutar "ls /etc/netplan" solo saldra un unico fichero llamado ".ymal" 
 <img width="277" height="21" alt="Captura de 2026-09-22 16-35-19" src="https://github.com/user-attachments/assets/1653df1a-b2b9-4fd2-8cdb-75bc2597369a" />
 ### Editar el fichero
-Para poder editar este fichero usaremos este comando 
+Para poder editar este fichero usaremos este comando "sudo nano /etc/netplan/50-cloud-init.yaml" 
+<img width="894" height="476" alt="Captura de 2026-09-22 16-19-28" src="https://github.com/user-attachments/assets/772fe4de-2e62-41e0-8c8f-10773eefed19" />
+pondremos lo que pone en la captura y terminariamos
